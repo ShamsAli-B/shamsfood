@@ -1,9 +1,15 @@
 *{
     margin: 0;
     padding: 0;
-}.logo-long{
+}
+/*.logo-long{
     margin-left: 70px;
     margin-top: 25px;
+}*/
+.shams-food{
+    font-size: 2rem;
+    font-family: serif;
+    color: green;
 }
 
 .header{
@@ -12,6 +18,7 @@
     margin-bottom: 150px;
     background-color: rgb(243, 242, 242);
 }
+
 .your-food{
     font-size: 93px;
     margin-left: 70px;
@@ -93,8 +100,11 @@ tbody{
     color: green;
 }
 
-.logo-long2{
+.shams-food2{
     margin-top: 10px;
+    font-size: 2rem;
+    font-family: serif;
+    color: green;
 }
 .content4{
     margin-left: 70px;
@@ -417,7 +427,7 @@ tbody{
         color: green;
     }
 
-    .logo-long2{
+    .shams-food2{
         margin-top: 10px;
     }
     .content4{
