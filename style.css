@@ -10,6 +10,15 @@
     font-size: 2rem;
     font-family: serif;
     color: green;
+    font-weight: 900;
+}
+
+.shams-food a{
+    text-decoration: none;
+}
+
+.shams-food a:hover{
+    text-decoration: underline;
 }
 
 .header{
