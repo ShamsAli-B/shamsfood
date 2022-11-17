@@ -6,6 +6,10 @@
     margin-left: 70px;
     margin-top: 25px;
 }*/
+html{
+    scroll-padding-top: 1rem;
+}
+
 .shams-food{
     font-size: 2rem;
     font-family: serif;
